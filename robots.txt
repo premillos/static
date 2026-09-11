@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://premillos.github.io/static/sitemap.xml

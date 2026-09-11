@@ -1,0 +1,1 @@
+function l(e,f,x,h=0,n=0){let t=f,o=x,r=-1,a=-1;for(let m=0;m<x;m++)for(let M=0;M<f;M++)e[(m*f+M)*4+3]>h&&(t=Math.min(t,M),o=Math.min(o,m),r=Math.max(r,M),a=Math.max(a,m));if(r<0)throw new Error("图片完全透明，没有可裁切的有效像素。请降低透明阈值或更换图片。");return t=Math.max(0,t-n),o=Math.max(0,o-n),r=Math.min(f-1,r+n),a=Math.min(x-1,a+n),{x:t,y:o,width:r-t+1,height:a-o+1}}export{l as findBounds};

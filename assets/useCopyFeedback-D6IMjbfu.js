@@ -1,0 +1,1 @@
+import{u as o,x as u}from"./app-CI57o9eb.js";function n(){const{t:a}=o(),e=u("");async function t(c){if(!c){e.value=a("copyFeedback.empty");return}try{await navigator.clipboard.writeText(c),e.value=a("copyFeedback.success")}catch{e.value=a("copyFeedback.failed")}window.setTimeout(()=>{e.value=""},2e3)}return{copyStatus:e,copyText:t}}export{n as u};
