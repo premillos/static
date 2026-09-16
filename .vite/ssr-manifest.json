@@ -2,11 +2,197 @@
   "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/dijkstrajs@1.0.3/node_modules/dijkstrajs/dijkstra.js?commonjs-module": [
     "/static/assets/browser-BjcGmAWY.js"
   ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/JsBarcode.js?commonjs-es-import": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/Barcode.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128A.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128B.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128C.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128_AUTO.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/auto.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/constants.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE39/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/CODE93.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/CODE93FullASCII.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/constants.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN13.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN2.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN5.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN8.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/UPC.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/UPCE.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/constants.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/encoder.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/GenericBarcode/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/ITF.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/ITF14.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/constants.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI10.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI1010.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI11.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI1110.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/checksums.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/codabar/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/pharmacode/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/exceptions/ErrorHandler.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/exceptions/exceptions.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/fixOptions.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/getOptionsFromElement.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/getRenderProperties.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/linearizeEncodings.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/merge.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/optionsFromStrings.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/options/defaults.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/canvas.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/index.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/object.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/shared.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/svg.js?commonjs-exports": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
   "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/lottie-web@5.13.0/node_modules/lottie-web/build/player/lottie.js?commonjs-es-import": [
     "/static/assets/lottie-A5X6lz-D.js"
   ],
   "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/lottie-web@5.13.0/node_modules/lottie-web/build/player/lottie.js?commonjs-module": [
     "/static/assets/lottie-A5X6lz-D.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/index.js?commonjs-es-import": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/deflate.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/inflate.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/common.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/strings.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/deflate.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inflate.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/trees.js?commonjs-exports": [
+    "/static/assets/index-BQ4gBrjZ.js"
   ],
   "\u0000/home/runner/work/fe/fe/node_modules/.pnpm/qrcode@1.5.4/node_modules/qrcode/lib/browser.js?commonjs-es-import": [
     "/static/assets/browser-BjcGmAWY.js"
@@ -84,12 +270,12 @@
     "/static/assets/_commonjsHelpers-CqkleIqs.js"
   ],
   "\u0000plugin-vue:export-helper": [
-    "/static/assets/ToolPageHeader-BEfOXcMc.js"
+    "/static/assets/_plugin-vue_export-helper-DlAUqK2U.js"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/static/assets/pwa-BTvxn8if.js"
+    "/static/assets/pwa-5i9jdHY0.js"
   ],
   "index.html": [],
   "index.html?html-proxy&inline-css&index=0.css": [],
@@ -100,6 +286,63 @@
   "node_modules/.pnpm/@intlify+core-base@11.4.10/node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/.pnpm/@intlify+message-compiler@11.4.10/node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
   "node_modules/.pnpm/@intlify+shared@11.4.10/node_modules/@intlify/shared/dist/shared.mjs": [],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Courier-Bold.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Courier-BoldOblique.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Courier-Oblique.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Courier.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Encoding.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Font.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Helvetica-Bold.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Helvetica-BoldOblique.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Helvetica-Oblique.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Helvetica.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Symbol.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Times-Bold.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Times-BoldItalic.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Times-Italic.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/Times-Roman.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/ZapfDingbats.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/all-encodings.compressed.json": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+standard-fonts@1.0.0/node_modules/@pdf-lib/standard-fonts/es/utils.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/@pdf-lib+upng@1.0.1/node_modules/@pdf-lib/upng/UPNG.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
   "node_modules/.pnpm/@unhead+vue@2.1.17_vue@3.5.42/node_modules/@unhead/vue/dist/client.mjs": [],
   "node_modules/.pnpm/@unhead+vue@2.1.17_vue@3.5.42/node_modules/@unhead/vue/dist/shared/vue.Cd6dkybA.mjs": [],
   "node_modules/.pnpm/@unhead+vue@2.1.17_vue@3.5.42/node_modules/@unhead/vue/dist/shared/vue.N9zWjxoK.mjs": [],
@@ -123,11 +366,614 @@
   "node_modules/.pnpm/is-electron@2.2.2/node_modules/is-electron/index.js": [
     "/static/assets/index-D8dLUPyp.js"
   ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/JsBarcode.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/Barcode.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128A.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128B.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128C.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/CODE128_AUTO.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/auto.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/constants.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE128/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE39/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/CODE93.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/CODE93FullASCII.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/constants.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/CODE93/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN13.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN2.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN5.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/EAN8.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/UPC.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/UPCE.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/constants.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/encoder.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/EAN_UPC/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/GenericBarcode/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/ITF.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/ITF14.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/constants.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/ITF/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI10.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI1010.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI11.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/MSI1110.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/checksums.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/MSI/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/codabar/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/barcodes/pharmacode/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/exceptions/ErrorHandler.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/exceptions/exceptions.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/fixOptions.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/getOptionsFromElement.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/getRenderProperties.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/linearizeEncodings.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/merge.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/help/optionsFromStrings.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/options/defaults.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/canvas.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/index.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/object.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/shared.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
+  "node_modules/.pnpm/jsbarcode@3.12.3/node_modules/jsbarcode/bin/renderers/svg.js": [
+    "/static/assets/JsBarcode-DP39BWWs.js"
+  ],
   "node_modules/.pnpm/lottie-web@5.13.0/node_modules/lottie-web/build/player/lottie.js": [
     "/static/assets/lottie-A5X6lz-D.js"
   ],
   "node_modules/.pnpm/marked@18.0.12/node_modules/marked/lib/marked.esm.js": [
     "/static/assets/marked.esm-BV5mCVaF.js"
+  ],
+  "node_modules/.pnpm/onnxruntime-web@1.21.0/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.jsep.mjs?url": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "node_modules/.pnpm/onnxruntime-web@1.21.0/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.jsep.wasm?url": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/index.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/deflate.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/inflate.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/common.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/utils/strings.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/adler32.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/constants.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/crc32.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/deflate.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/gzheader.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inffast.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inflate.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/inftrees.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/messages.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/trees.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pako@1.0.11/node_modules/pako/lib/zlib/zstream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFDocument.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFDocumentOptions.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFEmbeddedFile.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFEmbeddedPage.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFFont.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFImage.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFJavaScript.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFPage.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/PDFPageOptions.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/StandardFonts.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/colors.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/errors.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFButton.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFCheckBox.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFDropdown.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFField.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFForm.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFOptionList.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFRadioGroup.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFSignature.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/PDFTextField.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/form/appearances.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/image/alignment.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/objects.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/operations.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/operators.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/rotations.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/sizes.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/svgPath.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/text/alignment.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/api/text/layout.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/PDFContext.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/PDFObjectCopier.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroButton.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroCheckBox.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroChoice.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroComboBox.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroField.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroForm.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroListBox.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroNonTerminal.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroPushButton.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroRadioButton.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroSignature.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroTerminal.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/PDFAcroText.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/flags.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/acroform/utils.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/annotation/AppearanceCharacteristics.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/annotation/BorderStyle.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/annotation/PDFAnnotation.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/annotation/PDFWidgetAnnotation.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/annotation/flags.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/document/PDFCrossRefSection.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/document/PDFHeader.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/document/PDFTrailer.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/document/PDFTrailerDict.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/CMap.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/CustomFontEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/CustomFontSubsetEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/FileEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/FontFlags.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/JavaScriptEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/JpegEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/PDFPageEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/PngEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/embedders/StandardFontEmbedder.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/errors.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/interactive/ViewerPreferences.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFArray.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFBool.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFDict.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFHexString.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFInvalidObject.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFName.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFNull.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFNumber.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFObject.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFRawStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFRef.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/objects/PDFString.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/operators/PDFOperator.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/operators/PDFOperatorNames.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/BaseParser.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/ByteStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/PDFObjectParser.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/PDFObjectStreamParser.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/PDFParser.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/parser/PDFXRefStreamParser.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/Ascii85Stream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/AsciiHexStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/DecodeStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/FlateStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/LZWStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/RunLengthStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/Stream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/streams/decode.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFCatalog.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFContentStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFCrossRefStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFFlateStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFObjectStream.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFPageLeaf.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/structures/PDFPageTree.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/CharCodes.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/Delimiters.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/Irregular.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/Keywords.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/Numeric.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/syntax/Whitespace.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/writers/PDFStreamWriter.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/core/writers/PDFWriter.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/index.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/Cache.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/arrays.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/async.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/base64.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/errors.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/numbers.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/objects.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/pdfDocEncoding.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/png.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/rng.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/strings.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/unicode.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
+  ],
+  "node_modules/.pnpm/pdf-lib@1.17.1/node_modules/pdf-lib/es/utils/validators.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
   ],
   "node_modules/.pnpm/qrcode@1.5.4/node_modules/qrcode/lib/browser.js": [
     "/static/assets/browser-BjcGmAWY.js"
@@ -278,6 +1124,9 @@
   ],
   "node_modules/.pnpm/tesseract.js@5.1.1/node_modules/tesseract.js/src/worker/browser/terminateWorker.js": [
     "/static/assets/index-D8dLUPyp.js"
+  ],
+  "node_modules/.pnpm/tslib@1.14.1/node_modules/tslib/tslib.es6.js": [
+    "/static/assets/index-BQ4gBrjZ.js"
   ],
   "node_modules/.pnpm/unhead@2.1.17/node_modules/unhead/dist/client.mjs": [],
   "node_modules/.pnpm/unhead@2.1.17/node_modules/unhead/dist/shared/unhead.AvDFlk_u.mjs": [],
@@ -502,270 +1351,325 @@
   ],
   "src/App.vue": [],
   "src/components/BatteryIndicator.vue": [],
+  "src/components/DetectorToolShell.vue": [
+    "/static/assets/DetectorToolShell-DVwvv3Pk.js"
+  ],
   "src/components/FrameGuard.vue": [],
+  "src/components/HighlightText.vue": [
+    "/static/assets/HighlightText-BuD4v90q.js",
+    "/static/assets/HighlightText-BUXdR6vo.css"
+  ],
+  "src/components/HighlightText.vue?vue&type=style&index=0&scoped=ddd157b0&lang.css": [
+    "/static/assets/HighlightText-BuD4v90q.js",
+    "/static/assets/HighlightText-BUXdR6vo.css"
+  ],
+  "src/components/ModelOfflinePanel.vue": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "src/components/ModelOfflinePanel.vue?vue&type=style&index=0&scoped=59963522&lang.css": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "src/components/SelectableFileList.vue": [
+    "/static/assets/SelectableFileList-DhJskYof.js"
+  ],
   "src/components/SeoHeadSync.vue": [],
   "src/components/TextToolShell.vue": [
-    "/static/assets/TextToolShell-9VfvIrFT.js"
+    "/static/assets/TextToolShell-mhxr0SEj.js"
+  ],
+  "src/components/ToolCopyActions.vue": [
+    "/static/assets/ToolCopyActions-BR-YTIap.js"
   ],
   "src/components/ToolGuide.vue": [
-    "/static/assets/ToolPageHeader-BEfOXcMc.js"
+    "/static/assets/ToolPageHeader-B1GcCNO2.js"
   ],
   "src/components/ToolIcon.vue": [
-    "/static/assets/ToolIcon-CHgK2mWg.js"
+    "/static/assets/ToolIcon-BVPhxMVH.js"
   ],
   "src/components/ToolPageHeader.vue": [
-    "/static/assets/ToolPageHeader-BEfOXcMc.js"
+    "/static/assets/ToolPageHeader-B1GcCNO2.js"
   ],
   "src/components/ToolWorkspace.vue": [
-    "/static/assets/ToolWorkspace-Dbrice40.js"
+    "/static/assets/ToolWorkspace-DnJHyOhc.js"
   ],
   "src/components/toolIconPaths.js": [
-    "/static/assets/ToolIcon-CHgK2mWg.js"
+    "/static/assets/ToolIcon-BVPhxMVH.js"
   ],
   "src/components/ui/NumberInput.vue": [
-    "/static/assets/NumberInput-XPSKSzIc.js"
+    "/static/assets/NumberInput-VqmdpwfH.js"
   ],
-  "src/components/ui/NumberInput.vue?vue&type=style&index=0&scoped=91640742&lang.css": [],
+  "src/components/ui/NumberInput.vue?vue&type=style&index=0&scoped=f76fb98e&lang.css": [],
   "src/components/ui/UiActions.vue": [
-    "/static/assets/UiActions-D-RdaDQT.js"
+    "/static/assets/UiActions-Cuh8dGZE.js"
   ],
   "src/components/ui/UiButton.vue": [],
   "src/components/ui/UiCheckbox.vue": [
-    "/static/assets/UiCheckbox-BfZiAMe5.js"
+    "/static/assets/UiCheckbox-CrvWAdNa.js"
   ],
   "src/components/ui/UiCheckboxGroup.vue": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+    "/static/assets/UiCheckboxGroup-DV2niQTF.js"
   ],
   "src/components/ui/UiCheckboxGroup.vue?vue&type=style&index=0&scoped=2cb09862&lang.css": [],
   "src/components/ui/UiColorInput.vue": [
-    "/static/assets/UiColorInput-BXp3VtPO.js"
+    "/static/assets/UiColorInput-CL5SIg2c.js"
   ],
-  "src/components/ui/UiColorInput.vue?vue&type=style&index=0&scoped=78cb84bf&lang.css": [],
+  "src/components/ui/UiColorInput.vue?vue&type=style&index=0&scoped=bdb2fdd9&lang.css": [],
+  "src/components/ui/UiConfigOutput.vue": [
+    "/static/assets/UiConfigOutput-D4y50mo9.js"
+  ],
+  "src/components/ui/UiConfigOutput.vue?vue&type=style&index=0&scoped=a5c1e4ca&lang.css": [],
   "src/components/ui/UiField.vue": [
-    "/static/assets/UiField-CwJyPuGT.js"
+    "/static/assets/UiField-Ba3GMCWi.js"
   ],
   "src/components/ui/UiField.vue?vue&type=style&index=0&scoped=1d801b75&lang.css": [],
+  "src/components/ui/UiNotice.vue": [
+    "/static/assets/UiNotice-BCS9ki3P.js"
+  ],
+  "src/components/ui/UiNotice.vue?vue&type=style&index=0&scoped=f08d974e&lang.css": [],
   "src/components/ui/UiRangeInput.vue": [
-    "/static/assets/UiRangeInput-Bz53ME67.js"
+    "/static/assets/UiRangeInput-DwRfFKoV.js"
   ],
-  "src/components/ui/UiRangeInput.vue?vue&type=style&index=0&scoped=8963eab5&lang.css": [],
+  "src/components/ui/UiRangeInput.vue?vue&type=style&index=0&scoped=1562da3f&lang.css": [],
   "src/components/ui/UiSegmentedControl.vue": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/UiSegmentedControl-C_XQNvoE.js"
   ],
-  "src/components/ui/UiSegmentedControl.vue?vue&type=style&index=0&scoped=c4c15ca6&lang.css": [],
+  "src/components/ui/UiSegmentedControl.vue?vue&type=style&index=0&scoped=855008e7&lang.css": [],
   "src/components/ui/UiSelect.vue": [
-    "/static/assets/UiSelect-CKEuCmwH.js"
+    "/static/assets/UiSelect-CxknNqs2.js"
   ],
+  "src/components/ui/UiSelect.vue?vue&type=style&index=0&scoped=a2fcf6a1&lang.css": [],
   "src/components/ui/UiTextInput.vue": [
-    "/static/assets/UiTextInput-scpHHAAA.js"
+    "/static/assets/UiTextInput-Nd1oyHni.js"
   ],
+  "src/components/ui/UiTextInput.vue?vue&type=style&index=0&scoped=f2846cd8&lang.css": [],
   "src/components/ui/UiTextarea.vue": [
-    "/static/assets/UiTextarea-CwD16BbS.js"
+    "/static/assets/UiTextarea-ClbHHIQf.js"
   ],
+  "src/components/ui/UiTextarea.vue?vue&type=style&index=0&scoped=57415c92&lang.css": [],
   "src/components/ui/UploadZone.vue": [
-    "/static/assets/UploadZone-CEFKqnmV.js"
+    "/static/assets/UploadZone-Bxz-1uu2.js"
   ],
   "src/components/ui/UploadZone.vue?vue&type=style&index=0&scoped=082f6924&lang.css": [],
+  "src/components/ui/uiRangeMath.js": [
+    "/static/assets/UiRangeInput-DwRfFKoV.js"
+  ],
+  "src/components/ui/uiSelectOptions.js": [
+    "/static/assets/UiSelect-CxknNqs2.js"
+  ],
   "src/composables/useAvDeviceHelpers.js": [
-    "/static/assets/useAvDeviceHelpers-q0nFKk4C.js"
+    "/static/assets/useAvDeviceHelpers-CsDzGMSV.js"
   ],
   "src/composables/useBattery.js": [],
   "src/composables/useCommandCheatsheet.js": [
-    "/static/assets/useCommandCheatsheet-Czztcv9F.js"
+    "/static/assets/useCommandCheatsheet-5kZxIQ2y.js"
   ],
   "src/composables/useCopyFeedback.js": [
-    "/static/assets/useCopyFeedback-D6IMjbfu.js"
+    "/static/assets/useCopyFeedback-D2Upo1cN.js"
   ],
   "src/composables/useDebouncedRun.js": [
-    "/static/assets/useDebouncedRun-nVIBS1AG.js"
+    "/static/assets/useDebouncedRun-ChZTwOe3.js"
   ],
   "src/composables/useFaceDetector.js": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
   "src/composables/useImageTask.js": [
-    "/static/assets/useImageTask-BSvwud-1.js"
+    "/static/assets/useImageTask-DFEjdIa9.js"
   ],
   "src/composables/useLocale.js": [],
   "src/composables/useLocaleVersion.js": [
-    "/static/assets/useLocaleVersion-DB2FACO8.js"
+    "/static/assets/useLocaleVersion-BIpC0zSw.js"
   ],
   "src/composables/useLocalizedBrowserCapabilities.js": [
-    "/static/assets/index-CsGW7-iu.js",
-    "/static/assets/index-DfFHbLdP.css"
+    "/static/assets/index-4Ilsj4Qh.js",
+    "/static/assets/index-D06MPfwP.css"
   ],
   "src/composables/useLocalizedCsp.js": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+    "/static/assets/index-BpX5H69A.js",
+    "/static/assets/index-BYDDofqB.css"
   ],
   "src/composables/useLocalizedDeviceFingerprint.js": [
-    "/static/assets/index-A0STD3dS.js",
-    "/static/assets/index-DvB3pMnI.css"
+    "/static/assets/index-1AsgQ6RD.js",
+    "/static/assets/index-DNCsxkIA.css"
   ],
   "src/composables/useLocalizedDockerfile.js": [
-    "/static/assets/index-BEuGMrTM.js",
-    "/static/assets/index-wgXzxzqc.css"
+    "/static/assets/index-CnBazKTB.js",
+    "/static/assets/index-x4y35Nr1.css"
   ],
   "src/composables/useLocalizedExif.js": [
-    "/static/assets/index-BUwUcG-t.js",
-    "/static/assets/index-b68xhbsC.css"
+    "/static/assets/index-C--qAx4X.js",
+    "/static/assets/index-5Uvu5GYx.css"
   ],
   "src/composables/useLocalizedFace.js": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
   "src/composables/useLocalizedGitignore.js": [
-    "/static/assets/index-LuEn3YvW.js",
-    "/static/assets/index-D1B4Unk7.css"
+    "/static/assets/index-GbBRSNN4.js",
+    "/static/assets/index-BwbP5eJa.css"
   ],
   "src/composables/useLocalizedHttpHeader.js": [
-    "/static/assets/index-CMFDWbDN.js",
-    "/static/assets/index-tL7elR6V.css"
+    "/static/assets/index-CPIow9b3.js",
+    "/static/assets/index-BxP-rQM1.css"
   ],
   "src/composables/useLocalizedIdCard.js": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
   "src/composables/useLocalizedJsonFormatter.js": [
-    "/static/assets/index-CxjUZNVa.js"
+    "/static/assets/index-DxGhRJ5x.js"
   ],
   "src/composables/useLocalizedKeyboardChecker.js": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/composables/useLocalizedMouseChecker.js": [
-    "/static/assets/index-AdeSFyD3.js",
-    "/static/assets/index-BXTgjycj.css"
+    "/static/assets/index-CsrhR58c.js",
+    "/static/assets/index-Cs0z4uaT.css"
   ],
   "src/composables/useLocalizedNginx.js": [
-    "/static/assets/index-b_KjokeY.js",
-    "/static/assets/index-CVV8JpJ7.css"
+    "/static/assets/index-DtzWtO8w.js",
+    "/static/assets/index-Am9R57Y4.css"
   ],
   "src/composables/useLocalizedNsfw.js": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
   "src/composables/useLocalizedRefreshRate.js": [
-    "/static/assets/index-DBzgJY_n.js",
-    "/static/assets/index-B25JyLiO.css"
+    "/static/assets/index-B19Miqx9.js",
+    "/static/assets/index-Dz6QHL7A.css"
   ],
   "src/composables/useLocalizedRegexPresets.js": [
-    "/static/assets/index-BmJLLA5G.js",
-    "/static/assets/index-D6JT4vZq.css"
+    "/static/assets/index-nQRuAhA_.js",
+    "/static/assets/index-BUTH2uzP.css"
   ],
   "src/composables/useLocalizedRobots.js": [
-    "/static/assets/index-BjeMy3x-.js",
-    "/static/assets/index-0J3ygPZQ.css"
+    "/static/assets/index-CJBtR2Fj.js",
+    "/static/assets/index-M10oodkk.css"
   ],
   "src/composables/useLocalizedTools.js": [
-    "/static/assets/Home-C1Lblowo.js"
+    "/static/assets/Home-DQphlb89.js",
+    "/static/assets/Home-D8Xz6mAP.css"
   ],
   "src/composables/useLocalizedYolo.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
+  ],
+  "src/composables/useModelCache.js": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
   ],
   "src/composables/useNsfwDetector.js": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
   "src/composables/useOcrEngine.js": [
-    "/static/assets/index-DrJ5ZsCn.js",
-    "/static/assets/index-CJANCfHg.css"
+    "/static/assets/index-D-ZK0Lqs.js",
+    "/static/assets/index-D5tlJLsZ.css"
   ],
+  "src/composables/useRouteAnnouncer.js": [],
   "src/composables/useTheme.js": [],
   "src/composables/useToolError.js": [
-    "/static/assets/useToolError-CuiqKcAz.js"
+    "/static/assets/useToolError-_-NOn7hc.js"
   ],
   "src/composables/useToolGuideContent.js": [
-    "/static/assets/ToolPageHeader-BEfOXcMc.js"
+    "/static/assets/ToolPageHeader-B1GcCNO2.js"
   ],
   "src/composables/useToolHint.js": [
-    "/static/assets/useToolHint-tpFWZ9c_.js"
+    "/static/assets/useToolHint-QXZizNpF.js"
   ],
   "src/composables/useWebMcp.js": [],
   "src/composables/useYoloDetector.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
   "src/content/privacy.js": [],
   "src/i18n/categoryMap.js": [],
   "src/i18n/constants.js": [],
   "src/i18n/index.js": [],
   "src/i18n/locales/en/avDeviceOverlay.js": [
-    "/static/assets/useAvDeviceHelpers-q0nFKk4C.js"
+    "/static/assets/useAvDeviceHelpers-CsDzGMSV.js"
   ],
   "src/i18n/locales/en/browserCapabilitiesOverlay.js": [
-    "/static/assets/index-CsGW7-iu.js",
-    "/static/assets/index-DfFHbLdP.css"
+    "/static/assets/index-4Ilsj4Qh.js",
+    "/static/assets/index-D06MPfwP.css"
   ],
   "src/i18n/locales/en/cheatsheets/excel.js": [
-    "/static/assets/index-DlZV3JWj.js"
+    "/static/assets/index-BJrC3-sp.js",
+    "/static/assets/index-oti96zXU.css"
   ],
   "src/i18n/locales/en/cheatsheets/git.js": [
-    "/static/assets/index-B8JUs6R8.js"
+    "/static/assets/index-BDF8FHCi.js",
+    "/static/assets/index-ZBBdFJ73.css"
   ],
   "src/i18n/locales/en/cheatsheets/linux.js": [
-    "/static/assets/index-D7o95ro1.js"
+    "/static/assets/index-DCwFH0w3.js",
+    "/static/assets/index-Cuj8AHm6.css"
   ],
   "src/i18n/locales/en/commandGroups.js": [
-    "/static/assets/useCommandCheatsheet-Czztcv9F.js"
+    "/static/assets/useCommandCheatsheet-5kZxIQ2y.js"
   ],
   "src/i18n/locales/en/common.js": [],
   "src/i18n/locales/en/cspOverlay.js": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+    "/static/assets/index-BpX5H69A.js",
+    "/static/assets/index-BYDDofqB.css"
   ],
   "src/i18n/locales/en/deviceFingerprintOverlay.js": [
-    "/static/assets/index-A0STD3dS.js",
-    "/static/assets/index-DvB3pMnI.css"
+    "/static/assets/index-1AsgQ6RD.js",
+    "/static/assets/index-DNCsxkIA.css"
   ],
   "src/i18n/locales/en/dockerfileOverlay.js": [
-    "/static/assets/index-BEuGMrTM.js",
-    "/static/assets/index-wgXzxzqc.css"
+    "/static/assets/index-CnBazKTB.js",
+    "/static/assets/index-x4y35Nr1.css"
   ],
   "src/i18n/locales/en/errors.js": [],
   "src/i18n/locales/en/exifOverlay.js": [
-    "/static/assets/index-BUwUcG-t.js",
-    "/static/assets/index-b68xhbsC.css"
+    "/static/assets/index-C--qAx4X.js",
+    "/static/assets/index-5Uvu5GYx.css"
   ],
   "src/i18n/locales/en/faceOverlay.js": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
   "src/i18n/locales/en/gitignoreOverlay.js": [
-    "/static/assets/index-LuEn3YvW.js",
-    "/static/assets/index-D1B4Unk7.css"
+    "/static/assets/index-GbBRSNN4.js",
+    "/static/assets/index-BwbP5eJa.css"
   ],
   "src/i18n/locales/en/httpHeaderOverlay.js": [
-    "/static/assets/index-CMFDWbDN.js",
-    "/static/assets/index-tL7elR6V.css"
+    "/static/assets/index-CPIow9b3.js",
+    "/static/assets/index-BxP-rQM1.css"
   ],
   "src/i18n/locales/en/idCardOverlay.js": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
   "src/i18n/locales/en/keyboardCheckerOverlay.js": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/i18n/locales/en/mouseCheckerOverlay.js": [
-    "/static/assets/index-AdeSFyD3.js",
-    "/static/assets/index-BXTgjycj.css"
+    "/static/assets/index-CsrhR58c.js",
+    "/static/assets/index-Cs0z4uaT.css"
   ],
   "src/i18n/locales/en/nginxOverlay.js": [
-    "/static/assets/index-b_KjokeY.js",
-    "/static/assets/index-CVV8JpJ7.css"
+    "/static/assets/index-DtzWtO8w.js",
+    "/static/assets/index-Am9R57Y4.css"
   ],
   "src/i18n/locales/en/nsfwOverlay.js": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
   "src/i18n/locales/en/privacyContent.js": [],
   "src/i18n/locales/en/refreshRateOverlay.js": [
-    "/static/assets/index-DBzgJY_n.js",
-    "/static/assets/index-B25JyLiO.css"
+    "/static/assets/index-B19Miqx9.js",
+    "/static/assets/index-Dz6QHL7A.css"
   ],
   "src/i18n/locales/en/regexPresets.js": [],
   "src/i18n/locales/en/shared.js": [],
@@ -774,15 +1678,16 @@
   "src/i18n/locales/en/toolPages.js": [],
   "src/i18n/locales/en/tools.js": [],
   "src/i18n/locales/en/toolsUi.js": [],
+  "src/i18n/locales/en/uiShowcase.js": [],
   "src/i18n/locales/en/webmcp.js": [],
   "src/i18n/locales/en/workspace.js": [],
   "src/i18n/locales/en/yoloClasses.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
   "src/i18n/locales/en/yoloOverlay.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
   "src/i18n/locales/zh-CN/common.js": [],
   "src/i18n/locales/zh-CN/errors.js": [],
@@ -791,566 +1696,652 @@
   "src/i18n/locales/zh-CN/toolHints.js": [],
   "src/i18n/locales/zh-CN/toolPages.js": [],
   "src/i18n/locales/zh-CN/toolsUi.js": [],
+  "src/i18n/locales/zh-CN/uiShowcase.js": [],
   "src/i18n/locales/zh-CN/webmcp.js": [],
   "src/i18n/locales/zh-CN/workspace.js": [],
   "src/i18n/locales/zh-CN/yoloClasses.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
   "src/i18n/messages.js": [],
   "src/i18n/rawMessage.js": [
-    "/static/assets/rawMessage-D8RU8MVh.js"
+    "/static/assets/rawMessage-DlucbxRq.js"
   ],
   "src/main.js": [],
   "src/pwa.js": [
-    "/static/assets/pwa-BTvxn8if.js"
+    "/static/assets/pwa-5i9jdHY0.js"
   ],
   "src/router/routes.js": [],
   "src/seo/metadata.js": [],
   "src/seo/site.js": [],
   "src/styles/main.css": [],
   "src/tools/animation-converter/index.vue": [
-    "/static/assets/index-kGU5TwxW.js"
+    "/static/assets/index-B6Hnar8X.js"
   ],
   "src/tools/av-device-check/index.vue": [
-    "/static/assets/index-PIX3JGHG.js",
-    "/static/assets/index-DBlNbSds.css"
+    "/static/assets/index-CBvymcky.js",
+    "/static/assets/index-DZRcyJhy.css"
   ],
-  "src/tools/av-device-check/index.vue?vue&type=style&index=0&scoped=ba543dfb&lang.css": [
-    "/static/assets/index-PIX3JGHG.js",
-    "/static/assets/index-DBlNbSds.css"
+  "src/tools/av-device-check/index.vue?vue&type=style&index=0&scoped=67c957ce&lang.css": [
+    "/static/assets/index-CBvymcky.js",
+    "/static/assets/index-DZRcyJhy.css"
   ],
   "src/tools/av-device-check/logic.js": [
-    "/static/assets/useAvDeviceHelpers-q0nFKk4C.js"
+    "/static/assets/useAvDeviceHelpers-CsDzGMSV.js"
+  ],
+  "src/tools/barcode-generator/index.vue": [
+    "/static/assets/index-CyuyKhLF.js",
+    "/static/assets/index-DoVOZqb9.css"
+  ],
+  "src/tools/barcode-generator/index.vue?vue&type=style&index=0&scoped=a159c365&lang.css": [
+    "/static/assets/index-CyuyKhLF.js",
+    "/static/assets/index-DoVOZqb9.css"
+  ],
+  "src/tools/barcode-generator/logic.js": [
+    "/static/assets/index-CyuyKhLF.js",
+    "/static/assets/index-DoVOZqb9.css"
   ],
   "src/tools/browser-capabilities/index.vue": [
-    "/static/assets/index-CsGW7-iu.js",
-    "/static/assets/index-DfFHbLdP.css"
+    "/static/assets/index-4Ilsj4Qh.js",
+    "/static/assets/index-D06MPfwP.css"
   ],
-  "src/tools/browser-capabilities/index.vue?vue&type=style&index=0&scoped=86eb3ee8&lang.css": [
-    "/static/assets/index-CsGW7-iu.js",
-    "/static/assets/index-DfFHbLdP.css"
+  "src/tools/browser-capabilities/index.vue?vue&type=style&index=0&scoped=f03e52b1&lang.css": [
+    "/static/assets/index-4Ilsj4Qh.js",
+    "/static/assets/index-D06MPfwP.css"
   ],
   "src/tools/browser-capabilities/logic.js": [
-    "/static/assets/index-CsGW7-iu.js",
-    "/static/assets/index-DfFHbLdP.css"
+    "/static/assets/index-4Ilsj4Qh.js",
+    "/static/assets/index-D06MPfwP.css"
   ],
   "src/tools/color-converter/index.vue": [
-    "/static/assets/index-CjUuz-JC.js",
-    "/static/assets/index-63r3ZO7G.css"
+    "/static/assets/index-C9qoH3Wf.js",
+    "/static/assets/index-BUP4M1ZK.css"
   ],
-  "src/tools/color-converter/index.vue?vue&type=style&index=0&scoped=a05b16d8&lang.css": [
-    "/static/assets/index-CjUuz-JC.js",
-    "/static/assets/index-63r3ZO7G.css"
+  "src/tools/color-converter/index.vue?vue&type=style&index=0&scoped=eeb8e6df&lang.css": [
+    "/static/assets/index-C9qoH3Wf.js",
+    "/static/assets/index-BUP4M1ZK.css"
   ],
   "src/tools/color-converter/logic.js": [
-    "/static/assets/index-CjUuz-JC.js",
-    "/static/assets/index-63r3ZO7G.css"
+    "/static/assets/index-C9qoH3Wf.js",
+    "/static/assets/index-BUP4M1ZK.css"
   ],
   "src/tools/content.js": [],
   "src/tools/cron-builder/index.vue": [
-    "/static/assets/index-CsABuHVs.js",
-    "/static/assets/index-CA4-a8bw.css"
+    "/static/assets/index-DLdCFGpS.js",
+    "/static/assets/index-DXMexyy9.css"
   ],
-  "src/tools/cron-builder/index.vue?vue&type=style&index=0&scoped=ad73ba11&lang.css": [
-    "/static/assets/index-CsABuHVs.js",
-    "/static/assets/index-CA4-a8bw.css"
+  "src/tools/cron-builder/index.vue?vue&type=style&index=0&scoped=96a2028d&lang.css": [
+    "/static/assets/index-DLdCFGpS.js",
+    "/static/assets/index-DXMexyy9.css"
   ],
   "src/tools/cron-builder/logic.js": [
     "/static/assets/logic-JPxaG9rD.js"
   ],
   "src/tools/cron-parser/index.vue": [
-    "/static/assets/index-Df3Bno8q.js",
-    "/static/assets/index-Ca_LHLUI.css"
+    "/static/assets/index-Gj2PHzqV.js",
+    "/static/assets/index-BztxrMfx.css"
   ],
-  "src/tools/cron-parser/index.vue?vue&type=style&index=0&scoped=171419c8&lang.css": [
-    "/static/assets/index-Df3Bno8q.js",
-    "/static/assets/index-Ca_LHLUI.css"
+  "src/tools/cron-parser/index.vue?vue&type=style&index=0&scoped=2bde9010&lang.css": [
+    "/static/assets/index-Gj2PHzqV.js",
+    "/static/assets/index-BztxrMfx.css"
   ],
   "src/tools/crypto-cipher/index.vue": [
-    "/static/assets/index-cCaNuxAd.js",
-    "/static/assets/index-C6UC4k9X.css"
+    "/static/assets/index-BwqROLAi.js",
+    "/static/assets/index-CbAJ-4_8.css"
   ],
-  "src/tools/crypto-cipher/index.vue?vue&type=style&index=0&scoped=34f2bd52&lang.css": [
-    "/static/assets/index-cCaNuxAd.js",
-    "/static/assets/index-C6UC4k9X.css"
+  "src/tools/crypto-cipher/index.vue?vue&type=style&index=0&scoped=eb640c0b&lang.css": [
+    "/static/assets/index-BwqROLAi.js",
+    "/static/assets/index-CbAJ-4_8.css"
   ],
   "src/tools/crypto-cipher/logic.js": [
-    "/static/assets/index-cCaNuxAd.js",
-    "/static/assets/index-C6UC4k9X.css"
+    "/static/assets/index-BwqROLAi.js",
+    "/static/assets/index-CbAJ-4_8.css"
   ],
   "src/tools/crypto-codec/index.vue": [
-    "/static/assets/index--OsDxw0s.js",
-    "/static/assets/index-C6N5uL8Q.css"
+    "/static/assets/index-Duhzr18M.js",
+    "/static/assets/index-DX-5py4H.css"
   ],
-  "src/tools/crypto-codec/index.vue?vue&type=style&index=0&scoped=85133757&lang.css": [
-    "/static/assets/index--OsDxw0s.js",
-    "/static/assets/index-C6N5uL8Q.css"
+  "src/tools/crypto-codec/index.vue?vue&type=style&index=0&scoped=ed8f8b9a&lang.css": [
+    "/static/assets/index-Duhzr18M.js",
+    "/static/assets/index-DX-5py4H.css"
   ],
   "src/tools/crypto-codec/logic.js": [
-    "/static/assets/logic-BsdohncS.js"
+    "/static/assets/logic-BA7GFl2R.js"
   ],
   "src/tools/csp-generator/index.vue": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+    "/static/assets/index-BpX5H69A.js",
+    "/static/assets/index-BYDDofqB.css"
   ],
-  "src/tools/csp-generator/index.vue?vue&type=style&index=0&scoped=8890c5f4&lang.css": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+  "src/tools/csp-generator/index.vue?vue&type=style&index=0&scoped=e66134bc&lang.css": [
+    "/static/assets/index-BpX5H69A.js",
+    "/static/assets/index-BYDDofqB.css"
   ],
   "src/tools/csp-generator/logic.js": [
-    "/static/assets/index-vJcZdUll.js",
-    "/static/assets/index-DDI9QtRy.css"
+    "/static/assets/index-BpX5H69A.js",
+    "/static/assets/index-BYDDofqB.css"
   ],
   "src/tools/csv-json-converter/index.vue": [
-    "/static/assets/index-D-Bo4tsl.js",
-    "/static/assets/index-BXQLtB-8.css"
+    "/static/assets/index-Ct5yJTWG.js",
+    "/static/assets/index-CDB74Bxq.css"
   ],
-  "src/tools/csv-json-converter/index.vue?vue&type=style&index=0&scoped=3b79fc1d&lang.css": [
-    "/static/assets/index-D-Bo4tsl.js",
-    "/static/assets/index-BXQLtB-8.css"
+  "src/tools/csv-json-converter/index.vue?vue&type=style&index=0&scoped=4849df18&lang.css": [
+    "/static/assets/index-Ct5yJTWG.js",
+    "/static/assets/index-CDB74Bxq.css"
   ],
   "src/tools/csv-json-converter/logic.js": [
-    "/static/assets/index-D-Bo4tsl.js",
-    "/static/assets/index-BXQLtB-8.css"
+    "/static/assets/index-Ct5yJTWG.js",
+    "/static/assets/index-CDB74Bxq.css"
   ],
   "src/tools/device-fingerprint/index.vue": [
-    "/static/assets/index-A0STD3dS.js",
-    "/static/assets/index-DvB3pMnI.css"
+    "/static/assets/index-1AsgQ6RD.js",
+    "/static/assets/index-DNCsxkIA.css"
   ],
-  "src/tools/device-fingerprint/index.vue?vue&type=style&index=0&scoped=675fcc5a&lang.css": [
-    "/static/assets/index-A0STD3dS.js",
-    "/static/assets/index-DvB3pMnI.css"
+  "src/tools/device-fingerprint/index.vue?vue&type=style&index=0&scoped=d63c4514&lang.css": [
+    "/static/assets/index-1AsgQ6RD.js",
+    "/static/assets/index-DNCsxkIA.css"
   ],
   "src/tools/device-fingerprint/logic.js": [
-    "/static/assets/index-A0STD3dS.js",
-    "/static/assets/index-DvB3pMnI.css"
+    "/static/assets/index-1AsgQ6RD.js",
+    "/static/assets/index-DNCsxkIA.css"
   ],
   "src/tools/dockerfile-generator/index.vue": [
-    "/static/assets/index-BEuGMrTM.js",
-    "/static/assets/index-wgXzxzqc.css"
+    "/static/assets/index-CnBazKTB.js",
+    "/static/assets/index-x4y35Nr1.css"
   ],
-  "src/tools/dockerfile-generator/index.vue?vue&type=style&index=0&scoped=d62445e8&lang.css": [
-    "/static/assets/index-BEuGMrTM.js",
-    "/static/assets/index-wgXzxzqc.css"
+  "src/tools/dockerfile-generator/index.vue?vue&type=style&index=0&scoped=579b4ef6&lang.css": [
+    "/static/assets/index-CnBazKTB.js",
+    "/static/assets/index-x4y35Nr1.css"
   ],
   "src/tools/dockerfile-generator/logic.js": [
-    "/static/assets/index-BEuGMrTM.js",
-    "/static/assets/index-wgXzxzqc.css"
+    "/static/assets/index-CnBazKTB.js",
+    "/static/assets/index-x4y35Nr1.css"
   ],
   "src/tools/excel-commands/index.vue": [
-    "/static/assets/index-DlZV3JWj.js"
+    "/static/assets/index-BJrC3-sp.js",
+    "/static/assets/index-oti96zXU.css"
+  ],
+  "src/tools/excel-commands/index.vue?vue&type=style&index=0&scoped=b06af7a0&lang.css": [
+    "/static/assets/index-BJrC3-sp.js",
+    "/static/assets/index-oti96zXU.css"
   ],
   "src/tools/excel-commands/logic.js": [
-    "/static/assets/index-DlZV3JWj.js"
+    "/static/assets/index-BJrC3-sp.js",
+    "/static/assets/index-oti96zXU.css"
   ],
   "src/tools/exif-tool/index.vue": [
-    "/static/assets/index-BUwUcG-t.js",
-    "/static/assets/index-b68xhbsC.css"
+    "/static/assets/index-C--qAx4X.js",
+    "/static/assets/index-5Uvu5GYx.css"
   ],
-  "src/tools/exif-tool/index.vue?vue&type=style&index=0&scoped=0702598d&lang.css": [
-    "/static/assets/index-BUwUcG-t.js",
-    "/static/assets/index-b68xhbsC.css"
+  "src/tools/exif-tool/index.vue?vue&type=style&index=0&scoped=d8a603cc&lang.css": [
+    "/static/assets/index-C--qAx4X.js",
+    "/static/assets/index-5Uvu5GYx.css"
   ],
   "src/tools/exif-tool/logic.js": [
-    "/static/assets/index-BUwUcG-t.js",
-    "/static/assets/index-b68xhbsC.css"
+    "/static/assets/index-C--qAx4X.js",
+    "/static/assets/index-5Uvu5GYx.css"
   ],
   "src/tools/face-detector/imageData.js": [
     "/static/assets/imageData-D9YPgHHm.js"
   ],
   "src/tools/face-detector/index.vue": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
-  "src/tools/face-detector/index.vue?vue&type=style&index=0&scoped=eb97b5dd&lang.css": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+  "src/tools/face-detector/index.vue?vue&type=style&index=0&scoped=73d7bb44&lang.css": [
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
   "src/tools/face-detector/logic.js": [
-    "/static/assets/index-f5m6C2jS.js",
-    "/static/assets/index-DcvEnEUH.css"
+    "/static/assets/index-6H8dMdk_.js",
+    "/static/assets/index-CUfJ74vO.css"
   ],
   "src/tools/git-commands/index.vue": [
-    "/static/assets/index-B8JUs6R8.js"
+    "/static/assets/index-BDF8FHCi.js",
+    "/static/assets/index-ZBBdFJ73.css"
+  ],
+  "src/tools/git-commands/index.vue?vue&type=style&index=0&scoped=889f0c1a&lang.css": [
+    "/static/assets/index-BDF8FHCi.js",
+    "/static/assets/index-ZBBdFJ73.css"
   ],
   "src/tools/git-commands/logic.js": [
-    "/static/assets/index-B8JUs6R8.js"
+    "/static/assets/index-BDF8FHCi.js",
+    "/static/assets/index-ZBBdFJ73.css"
   ],
   "src/tools/gitignore-generator/index.vue": [
-    "/static/assets/index-LuEn3YvW.js",
-    "/static/assets/index-D1B4Unk7.css"
+    "/static/assets/index-GbBRSNN4.js",
+    "/static/assets/index-BwbP5eJa.css"
   ],
-  "src/tools/gitignore-generator/index.vue?vue&type=style&index=0&scoped=3cdc38f2&lang.css": [
-    "/static/assets/index-LuEn3YvW.js",
-    "/static/assets/index-D1B4Unk7.css"
+  "src/tools/gitignore-generator/index.vue?vue&type=style&index=0&scoped=68daac1d&lang.css": [
+    "/static/assets/index-GbBRSNN4.js",
+    "/static/assets/index-BwbP5eJa.css"
   ],
   "src/tools/gitignore-generator/logic.js": [
-    "/static/assets/index-LuEn3YvW.js",
-    "/static/assets/index-D1B4Unk7.css"
+    "/static/assets/index-GbBRSNN4.js",
+    "/static/assets/index-BwbP5eJa.css"
   ],
   "src/tools/http-header-parser/index.vue": [
-    "/static/assets/index-CMFDWbDN.js",
-    "/static/assets/index-tL7elR6V.css"
+    "/static/assets/index-CPIow9b3.js",
+    "/static/assets/index-BxP-rQM1.css"
   ],
-  "src/tools/http-header-parser/index.vue?vue&type=style&index=0&scoped=dfa018cb&lang.css": [
-    "/static/assets/index-CMFDWbDN.js",
-    "/static/assets/index-tL7elR6V.css"
+  "src/tools/http-header-parser/index.vue?vue&type=style&index=0&scoped=251342d7&lang.css": [
+    "/static/assets/index-CPIow9b3.js",
+    "/static/assets/index-BxP-rQM1.css"
   ],
   "src/tools/http-header-parser/logic.js": [
-    "/static/assets/index-CMFDWbDN.js",
-    "/static/assets/index-tL7elR6V.css"
+    "/static/assets/index-CPIow9b3.js",
+    "/static/assets/index-BxP-rQM1.css"
   ],
   "src/tools/icon-generator/index.vue": [
-    "/static/assets/index-CctQFf8p.js"
+    "/static/assets/index-CbufeluS.js"
   ],
   "src/tools/id-card-validator/gb2260-regions.json": [
     "/static/assets/gb2260-regions-BlK-xBKK.js"
   ],
   "src/tools/id-card-validator/index.vue": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
-  "src/tools/id-card-validator/index.vue?vue&type=style&index=0&scoped=342bb9e2&lang.css": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+  "src/tools/id-card-validator/index.vue?vue&type=style&index=0&scoped=72c6e698&lang.css": [
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
   "src/tools/id-card-validator/logic.js": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
   "src/tools/id-card-validator/regions.js": [
-    "/static/assets/index-BLBRc8DO.js",
-    "/static/assets/index-DxfgDocO.css"
+    "/static/assets/index-WM2u_VCW.js",
+    "/static/assets/index-D3YGjcuA.css"
   ],
   "src/tools/image-compressor/index.vue": [
-    "/static/assets/index-Ozez-9ev.js"
+    "/static/assets/index-kHNNITi2.js"
   ],
   "src/tools/image-converter/index.vue": [
-    "/static/assets/index-ByibHbWr.js"
+    "/static/assets/index-TWqr7Ddi.js"
+  ],
+  "src/tools/image-watermark/WatermarkPreview.vue": [
+    "/static/assets/index-Bih09C97.js",
+    "/static/assets/index-DXWysTcX.css"
+  ],
+  "src/tools/image-watermark/WatermarkPreview.vue?vue&type=style&index=0&scoped=af0f48b0&lang.css": [
+    "/static/assets/index-Bih09C97.js",
+    "/static/assets/index-DXWysTcX.css"
+  ],
+  "src/tools/image-watermark/index.vue": [
+    "/static/assets/index-Bih09C97.js",
+    "/static/assets/index-DXWysTcX.css"
+  ],
+  "src/tools/image-watermark/index.vue?vue&type=style&index=0&scoped=aa4e8472&lang.css": [
+    "/static/assets/index-Bih09C97.js",
+    "/static/assets/index-DXWysTcX.css"
+  ],
+  "src/tools/image-watermark/logic.js": [
+    "/static/assets/logic-CJWiwY1Z.js"
   ],
   "src/tools/ip-calculator/index.vue": [
-    "/static/assets/index-C6UNAL50.js",
-    "/static/assets/index-DaXxCqwe.css"
+    "/static/assets/index-B6EiNBJ9.js",
+    "/static/assets/index-Dx92TeMK.css"
   ],
-  "src/tools/ip-calculator/index.vue?vue&type=style&index=0&scoped=2cc422a1&lang.css": [
-    "/static/assets/index-C6UNAL50.js",
-    "/static/assets/index-DaXxCqwe.css"
+  "src/tools/ip-calculator/index.vue?vue&type=style&index=0&scoped=cbe251b4&lang.css": [
+    "/static/assets/index-B6EiNBJ9.js",
+    "/static/assets/index-Dx92TeMK.css"
   ],
   "src/tools/ip-calculator/logic.js": [
-    "/static/assets/index-C6UNAL50.js",
-    "/static/assets/index-DaXxCqwe.css"
+    "/static/assets/index-B6EiNBJ9.js",
+    "/static/assets/index-Dx92TeMK.css"
   ],
   "src/tools/json-formatter/index.vue": [
-    "/static/assets/index-CxjUZNVa.js"
+    "/static/assets/index-DxGhRJ5x.js"
   ],
   "src/tools/json-formatter/logic.js": [
-    "/static/assets/index-CxjUZNVa.js"
+    "/static/assets/index-DxGhRJ5x.js"
   ],
   "src/tools/jwt-parser/index.vue": [
-    "/static/assets/index-ecx8zNM9.js",
-    "/static/assets/index-Dkjd4wYM.css"
+    "/static/assets/index-CI_jzADF.js",
+    "/static/assets/index-S686oZ3R.css"
   ],
-  "src/tools/jwt-parser/index.vue?vue&type=style&index=0&scoped=59425ef5&lang.css": [
-    "/static/assets/index-ecx8zNM9.js",
-    "/static/assets/index-Dkjd4wYM.css"
+  "src/tools/jwt-parser/index.vue?vue&type=style&index=0&scoped=e21ec029&lang.css": [
+    "/static/assets/index-CI_jzADF.js",
+    "/static/assets/index-S686oZ3R.css"
   ],
   "src/tools/jwt-parser/logic.js": [
-    "/static/assets/index-ecx8zNM9.js",
-    "/static/assets/index-Dkjd4wYM.css"
+    "/static/assets/index-CI_jzADF.js",
+    "/static/assets/index-S686oZ3R.css"
   ],
   "src/tools/keyboard-checker/index.vue": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
-  "src/tools/keyboard-checker/index.vue?vue&type=style&index=0&scoped=963a2ab5&lang.css": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+  "src/tools/keyboard-checker/index.vue?vue&type=style&index=0&scoped=9ec75f17&lang.css": [
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/tools/keyboard-checker/keySound.js": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/tools/keyboard-checker/layout.js": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/tools/keyboard-checker/logic.js": [
-    "/static/assets/index-CfkrEXWu.js",
-    "/static/assets/index-D90LYCbZ.css"
+    "/static/assets/index-BCb09wkG.js",
+    "/static/assets/index-tiUTbGw3.css"
   ],
   "src/tools/linux-commands/index.vue": [
-    "/static/assets/index-D7o95ro1.js"
+    "/static/assets/index-DCwFH0w3.js",
+    "/static/assets/index-Cuj8AHm6.css"
+  ],
+  "src/tools/linux-commands/index.vue?vue&type=style&index=0&scoped=74f72bd1&lang.css": [
+    "/static/assets/index-DCwFH0w3.js",
+    "/static/assets/index-Cuj8AHm6.css"
   ],
   "src/tools/linux-commands/logic.js": [
-    "/static/assets/index-D7o95ro1.js"
+    "/static/assets/index-DCwFH0w3.js",
+    "/static/assets/index-Cuj8AHm6.css"
   ],
   "src/tools/lottie-player/index.vue": [
-    "/static/assets/index-Bd-kfaUS.js",
-    "/static/assets/index-C6w79taC.css"
+    "/static/assets/index-B2pqcxHO.js",
+    "/static/assets/index-CtusRBnU.css"
   ],
-  "src/tools/lottie-player/index.vue?vue&type=style&index=0&scoped=67a522d7&lang.css": [
-    "/static/assets/index-Bd-kfaUS.js",
-    "/static/assets/index-C6w79taC.css"
+  "src/tools/lottie-player/index.vue?vue&type=style&index=0&scoped=f27ebcc0&lang.css": [
+    "/static/assets/index-B2pqcxHO.js",
+    "/static/assets/index-CtusRBnU.css"
   ],
   "src/tools/lottie-player/logic.js": [
-    "/static/assets/index-Bd-kfaUS.js",
-    "/static/assets/index-C6w79taC.css"
+    "/static/assets/index-B2pqcxHO.js",
+    "/static/assets/index-CtusRBnU.css"
   ],
   "src/tools/markdown-preview/index.vue": [
-    "/static/assets/index-CzL1uBAn.js",
-    "/static/assets/index-CGeIW6jq.css"
+    "/static/assets/index-DoyJsizG.js",
+    "/static/assets/index-BEeedjsD.css"
   ],
-  "src/tools/markdown-preview/index.vue?vue&type=style&index=0&scoped=9d77a877&lang.css": [
-    "/static/assets/index-CzL1uBAn.js",
-    "/static/assets/index-CGeIW6jq.css"
+  "src/tools/markdown-preview/index.vue?vue&type=style&index=0&scoped=7850b0c9&lang.css": [
+    "/static/assets/index-DoyJsizG.js",
+    "/static/assets/index-BEeedjsD.css"
   ],
   "src/tools/markdown-preview/logic.js": [
-    "/static/assets/index-CzL1uBAn.js",
-    "/static/assets/index-CGeIW6jq.css"
+    "/static/assets/index-DoyJsizG.js",
+    "/static/assets/index-BEeedjsD.css"
   ],
   "src/tools/mouse-checker/index.vue": [
-    "/static/assets/index-AdeSFyD3.js",
-    "/static/assets/index-BXTgjycj.css"
+    "/static/assets/index-CsrhR58c.js",
+    "/static/assets/index-Cs0z4uaT.css"
   ],
-  "src/tools/mouse-checker/index.vue?vue&type=style&index=0&scoped=75053962&lang.css": [
-    "/static/assets/index-AdeSFyD3.js",
-    "/static/assets/index-BXTgjycj.css"
+  "src/tools/mouse-checker/index.vue?vue&type=style&index=0&scoped=3b46df32&lang.css": [
+    "/static/assets/index-CsrhR58c.js",
+    "/static/assets/index-Cs0z4uaT.css"
   ],
   "src/tools/mouse-checker/logic.js": [
-    "/static/assets/index-AdeSFyD3.js",
-    "/static/assets/index-BXTgjycj.css"
+    "/static/assets/index-CsrhR58c.js",
+    "/static/assets/index-Cs0z4uaT.css"
   ],
   "src/tools/nginx-config-generator/index.vue": [
-    "/static/assets/index-b_KjokeY.js",
-    "/static/assets/index-CVV8JpJ7.css"
+    "/static/assets/index-DtzWtO8w.js",
+    "/static/assets/index-Am9R57Y4.css"
   ],
-  "src/tools/nginx-config-generator/index.vue?vue&type=style&index=0&scoped=21658aba&lang.css": [
-    "/static/assets/index-b_KjokeY.js",
-    "/static/assets/index-CVV8JpJ7.css"
+  "src/tools/nginx-config-generator/index.vue?vue&type=style&index=0&scoped=56868ec9&lang.css": [
+    "/static/assets/index-DtzWtO8w.js",
+    "/static/assets/index-Am9R57Y4.css"
   ],
   "src/tools/nginx-config-generator/logic.js": [
-    "/static/assets/index-b_KjokeY.js",
-    "/static/assets/index-CVV8JpJ7.css"
+    "/static/assets/index-DtzWtO8w.js",
+    "/static/assets/index-Am9R57Y4.css"
   ],
   "src/tools/nine-grid-slicer/index.vue": [
-    "/static/assets/index-B4wT-l_a.js",
+    "/static/assets/index-orLe958_.js",
     "/static/assets/index-CDhcH5e5.css"
   ],
   "src/tools/nine-grid-slicer/index.vue?vue&type=style&index=0&scoped=7b64aa6a&lang.css": [
-    "/static/assets/index-B4wT-l_a.js",
+    "/static/assets/index-orLe958_.js",
     "/static/assets/index-CDhcH5e5.css"
   ],
   "src/tools/nsfw-detector/index.vue": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
-  "src/tools/nsfw-detector/index.vue?vue&type=style&index=0&scoped=266baede&lang.css": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+  "src/tools/nsfw-detector/index.vue?vue&type=style&index=0&scoped=76bc8777&lang.css": [
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
   "src/tools/nsfw-detector/logic.js": [
-    "/static/assets/index-DsIb5ORn.js",
-    "/static/assets/index-Ce3Ll2EM.css"
+    "/static/assets/index-BiXa-G-o.js",
+    "/static/assets/index-CYOJPEML.css"
   ],
   "src/tools/ocr-tool/index.vue": [
-    "/static/assets/index-DrJ5ZsCn.js",
-    "/static/assets/index-CJANCfHg.css"
+    "/static/assets/index-D-ZK0Lqs.js",
+    "/static/assets/index-D5tlJLsZ.css"
   ],
-  "src/tools/ocr-tool/index.vue?vue&type=style&index=0&scoped=35069cf9&lang.css": [
-    "/static/assets/index-DrJ5ZsCn.js",
-    "/static/assets/index-CJANCfHg.css"
+  "src/tools/ocr-tool/index.vue?vue&type=style&index=0&scoped=368ab670&lang.css": [
+    "/static/assets/index-D-ZK0Lqs.js",
+    "/static/assets/index-D5tlJLsZ.css"
   ],
   "src/tools/ocr-tool/logic.js": [
-    "/static/assets/index-DrJ5ZsCn.js",
-    "/static/assets/index-CJANCfHg.css"
+    "/static/assets/index-D-ZK0Lqs.js",
+    "/static/assets/index-D5tlJLsZ.css"
   ],
   "src/tools/password-generator/index.vue": [
-    "/static/assets/index-fb3VsXkF.js",
-    "/static/assets/index-CONMWPqL.css"
+    "/static/assets/index-PwrPHfgO.js",
+    "/static/assets/index-D92EoZug.css"
   ],
-  "src/tools/password-generator/index.vue?vue&type=style&index=0&scoped=cfef9a09&lang.css": [
-    "/static/assets/index-fb3VsXkF.js",
-    "/static/assets/index-CONMWPqL.css"
+  "src/tools/password-generator/index.vue?vue&type=style&index=0&scoped=8300b6b9&lang.css": [
+    "/static/assets/index-PwrPHfgO.js",
+    "/static/assets/index-D92EoZug.css"
   ],
   "src/tools/password-generator/logic.js": [
-    "/static/assets/index-fb3VsXkF.js",
-    "/static/assets/index-CONMWPqL.css"
+    "/static/assets/index-PwrPHfgO.js",
+    "/static/assets/index-D92EoZug.css"
+  ],
+  "src/tools/pdf-tool/index.vue": [
+    "/static/assets/index-00T6-Sxf.js",
+    "/static/assets/index-CDfYUcKa.css"
+  ],
+  "src/tools/pdf-tool/index.vue?vue&type=style&index=0&scoped=a6debe9e&lang.css": [
+    "/static/assets/index-00T6-Sxf.js",
+    "/static/assets/index-CDfYUcKa.css"
+  ],
+  "src/tools/pdf-tool/logic.js": [
+    "/static/assets/index-00T6-Sxf.js",
+    "/static/assets/index-CDfYUcKa.css"
   ],
   "src/tools/qr-generator/index.vue": [
-    "/static/assets/index-DBE1aaOP.js",
-    "/static/assets/index-B6l3PtXI.css"
+    "/static/assets/index-Cp0WUWkR.js",
+    "/static/assets/index-DHbs5Or_.css"
   ],
-  "src/tools/qr-generator/index.vue?vue&type=style&index=0&scoped=9d3ddb5f&lang.css": [
-    "/static/assets/index-DBE1aaOP.js",
-    "/static/assets/index-B6l3PtXI.css"
+  "src/tools/qr-generator/index.vue?vue&type=style&index=0&scoped=b0a01041&lang.css": [
+    "/static/assets/index-Cp0WUWkR.js",
+    "/static/assets/index-DHbs5Or_.css"
   ],
   "src/tools/qr-generator/logic.js": [
-    "/static/assets/index-DBE1aaOP.js",
-    "/static/assets/index-B6l3PtXI.css"
+    "/static/assets/index-Cp0WUWkR.js",
+    "/static/assets/index-DHbs5Or_.css"
   ],
   "src/tools/radix-converter/index.vue": [
-    "/static/assets/index-CelmNXjZ.js"
+    "/static/assets/index-DoYMnBI-.js"
   ],
   "src/tools/radix-converter/logic.js": [
-    "/static/assets/index-CelmNXjZ.js"
+    "/static/assets/index-DoYMnBI-.js"
   ],
   "src/tools/refresh-rate-detector/index.vue": [
-    "/static/assets/index-DBzgJY_n.js",
-    "/static/assets/index-B25JyLiO.css"
+    "/static/assets/index-B19Miqx9.js",
+    "/static/assets/index-Dz6QHL7A.css"
   ],
-  "src/tools/refresh-rate-detector/index.vue?vue&type=style&index=0&scoped=de9740cf&lang.css": [
-    "/static/assets/index-DBzgJY_n.js",
-    "/static/assets/index-B25JyLiO.css"
+  "src/tools/refresh-rate-detector/index.vue?vue&type=style&index=0&scoped=bef35b99&lang.css": [
+    "/static/assets/index-B19Miqx9.js",
+    "/static/assets/index-Dz6QHL7A.css"
   ],
   "src/tools/refresh-rate-detector/logic.js": [
-    "/static/assets/index-DBzgJY_n.js",
-    "/static/assets/index-B25JyLiO.css"
+    "/static/assets/index-B19Miqx9.js",
+    "/static/assets/index-Dz6QHL7A.css"
   ],
   "src/tools/regex-tester/index.vue": [
-    "/static/assets/index-BmJLLA5G.js",
-    "/static/assets/index-D6JT4vZq.css"
+    "/static/assets/index-nQRuAhA_.js",
+    "/static/assets/index-BUTH2uzP.css"
   ],
-  "src/tools/regex-tester/index.vue?vue&type=style&index=0&scoped=26479d2c&lang.css": [
-    "/static/assets/index-BmJLLA5G.js",
-    "/static/assets/index-D6JT4vZq.css"
+  "src/tools/regex-tester/index.vue?vue&type=style&index=0&scoped=1f347fe8&lang.css": [
+    "/static/assets/index-nQRuAhA_.js",
+    "/static/assets/index-BUTH2uzP.css"
   ],
   "src/tools/regex-tester/logic.js": [
-    "/static/assets/index-BmJLLA5G.js",
-    "/static/assets/index-D6JT4vZq.css"
+    "/static/assets/index-nQRuAhA_.js",
+    "/static/assets/index-BUTH2uzP.css"
   ],
   "src/tools/registry.js": [],
   "src/tools/robots-txt-generator/index.vue": [
-    "/static/assets/index-BjeMy3x-.js",
-    "/static/assets/index-0J3ygPZQ.css"
+    "/static/assets/index-CJBtR2Fj.js",
+    "/static/assets/index-M10oodkk.css"
   ],
-  "src/tools/robots-txt-generator/index.vue?vue&type=style&index=0&scoped=63687345&lang.css": [
-    "/static/assets/index-BjeMy3x-.js",
-    "/static/assets/index-0J3ygPZQ.css"
+  "src/tools/robots-txt-generator/index.vue?vue&type=style&index=0&scoped=7a6b58c8&lang.css": [
+    "/static/assets/index-CJBtR2Fj.js",
+    "/static/assets/index-M10oodkk.css"
   ],
   "src/tools/robots-txt-generator/logic.js": [
-    "/static/assets/index-BjeMy3x-.js",
-    "/static/assets/index-0J3ygPZQ.css"
+    "/static/assets/index-CJBtR2Fj.js",
+    "/static/assets/index-M10oodkk.css"
   ],
   "src/tools/screen-color-test/index.vue": [
-    "/static/assets/index-D2VoParq.js",
-    "/static/assets/index-BOTutUds.css"
+    "/static/assets/index-BKa0rb4D.js",
+    "/static/assets/index-CKMDdizg.css"
   ],
-  "src/tools/screen-color-test/index.vue?vue&type=style&index=0&scoped=f5329cf9&lang.css": [
-    "/static/assets/index-D2VoParq.js",
-    "/static/assets/index-BOTutUds.css"
+  "src/tools/screen-color-test/index.vue?vue&type=style&index=0&scoped=ff355652&lang.css": [
+    "/static/assets/index-BKa0rb4D.js",
+    "/static/assets/index-CKMDdizg.css"
   ],
   "src/tools/screen-color-test/logic.js": [
-    "/static/assets/index-D2VoParq.js",
-    "/static/assets/index-BOTutUds.css"
+    "/static/assets/index-BKa0rb4D.js",
+    "/static/assets/index-CKMDdizg.css"
+  ],
+  "src/tools/searchAliases.js": [
+    "/static/assets/Home-DQphlb89.js",
+    "/static/assets/Home-D8Xz6mAP.css"
   ],
   "src/tools/sprite-slicer/atlas.js": [
-    "/static/assets/index-DFB25Qdm.js",
-    "/static/assets/index-CBBTh-Re.css"
+    "/static/assets/index-DSo0QPYm.js",
+    "/static/assets/index-HjcRObiA.css"
   ],
   "src/tools/sprite-slicer/index.vue": [
-    "/static/assets/index-DFB25Qdm.js",
-    "/static/assets/index-CBBTh-Re.css"
+    "/static/assets/index-DSo0QPYm.js",
+    "/static/assets/index-HjcRObiA.css"
   ],
-  "src/tools/sprite-slicer/index.vue?vue&type=style&index=0&scoped=bd7330d2&lang.css": [
-    "/static/assets/index-DFB25Qdm.js",
-    "/static/assets/index-CBBTh-Re.css"
+  "src/tools/sprite-slicer/index.vue?vue&type=style&index=0&scoped=257cf792&lang.css": [
+    "/static/assets/index-DSo0QPYm.js",
+    "/static/assets/index-HjcRObiA.css"
   ],
   "src/tools/sql-formatter/index.vue": [
-    "/static/assets/index-DjQrpr2W.js"
+    "/static/assets/index-hc1vqyVF.js"
   ],
   "src/tools/sql-formatter/logic.js": [
-    "/static/assets/index-DjQrpr2W.js"
+    "/static/assets/index-hc1vqyVF.js"
   ],
   "src/tools/timestamp-converter/index.vue": [
-    "/static/assets/index-C67Tp3Yy.js",
-    "/static/assets/index-D_eKK1Fo.css"
+    "/static/assets/index-B0qPpBel.js",
+    "/static/assets/index-kW78lFdj.css"
   ],
-  "src/tools/timestamp-converter/index.vue?vue&type=style&index=0&scoped=32a58057&lang.css": [
-    "/static/assets/index-C67Tp3Yy.js",
-    "/static/assets/index-D_eKK1Fo.css"
+  "src/tools/timestamp-converter/index.vue?vue&type=style&index=0&scoped=1586e693&lang.css": [
+    "/static/assets/index-B0qPpBel.js",
+    "/static/assets/index-kW78lFdj.css"
   ],
   "src/tools/timestamp-converter/logic.js": [
-    "/static/assets/index-C67Tp3Yy.js",
-    "/static/assets/index-D_eKK1Fo.css"
+    "/static/assets/index-B0qPpBel.js",
+    "/static/assets/index-kW78lFdj.css"
   ],
   "src/tools/timezone-converter/index.vue": [
-    "/static/assets/index-BcWTUcIR.js"
+    "/static/assets/index-BHGXVyf_.js"
   ],
   "src/tools/timezone-converter/logic.js": [
-    "/static/assets/index-BcWTUcIR.js"
+    "/static/assets/index-BHGXVyf_.js"
   ],
   "src/tools/transparent-trimmer/index.vue": [
-    "/static/assets/index-DMnE3-XT.js"
+    "/static/assets/index-_ymyYbBB.js"
   ],
   "src/tools/unicode-escape/index.vue": [
-    "/static/assets/index-DKAoJmGy.js",
-    "/static/assets/index-vXdPH7qL.css"
+    "/static/assets/index-Cv3xL0mK.js",
+    "/static/assets/index-CAaphffM.css"
   ],
-  "src/tools/unicode-escape/index.vue?vue&type=style&index=0&scoped=9e112276&lang.css": [
-    "/static/assets/index-DKAoJmGy.js",
-    "/static/assets/index-vXdPH7qL.css"
+  "src/tools/unicode-escape/index.vue?vue&type=style&index=0&scoped=5f41250f&lang.css": [
+    "/static/assets/index-Cv3xL0mK.js",
+    "/static/assets/index-CAaphffM.css"
   ],
   "src/tools/unicode-escape/logic.js": [
-    "/static/assets/index-DKAoJmGy.js",
-    "/static/assets/index-vXdPH7qL.css"
+    "/static/assets/index-Cv3xL0mK.js",
+    "/static/assets/index-CAaphffM.css"
   ],
   "src/tools/url-codec/index.vue": [
-    "/static/assets/index-BVxbwd8I.js",
-    "/static/assets/index-BCxab3Uv.css"
+    "/static/assets/index-CCpTPzsT.js",
+    "/static/assets/index-DxtKjNam.css"
   ],
-  "src/tools/url-codec/index.vue?vue&type=style&index=0&scoped=89370351&lang.css": [
-    "/static/assets/index-BVxbwd8I.js",
-    "/static/assets/index-BCxab3Uv.css"
+  "src/tools/url-codec/index.vue?vue&type=style&index=0&scoped=386791c2&lang.css": [
+    "/static/assets/index-CCpTPzsT.js",
+    "/static/assets/index-DxtKjNam.css"
   ],
   "src/tools/url-codec/logic.js": [
-    "/static/assets/index-BVxbwd8I.js",
-    "/static/assets/index-BCxab3Uv.css"
+    "/static/assets/index-CCpTPzsT.js",
+    "/static/assets/index-DxtKjNam.css"
   ],
   "src/tools/uuid-generator/index.vue": [
-    "/static/assets/index-1Pv7h1Dk.js"
+    "/static/assets/index-DlGBMmYx.js"
   ],
   "src/tools/uuid-generator/logic.js": [
-    "/static/assets/index-1Pv7h1Dk.js"
+    "/static/assets/index-DlGBMmYx.js"
   ],
   "src/tools/yaml-json-converter/index.vue": [
-    "/static/assets/index-DhGuQMd0.js"
+    "/static/assets/index-dIY_zcIP.js"
   ],
   "src/tools/yaml-json-converter/logic.js": [
-    "/static/assets/index-DhGuQMd0.js"
+    "/static/assets/index-dIY_zcIP.js"
   ],
   "src/tools/yolo-detector/index.vue": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
-  "src/tools/yolo-detector/index.vue?vue&type=style&index=0&scoped=9fc80278&lang.css": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+  "src/tools/yolo-detector/index.vue?vue&type=style&index=0&scoped=c0d1052c&lang.css": [
+    "/static/assets/index-7lpFK9s_.js",
+    "/static/assets/index-D8OFb7tb.css"
   ],
   "src/tools/yolo-detector/logic.js": [
-    "/static/assets/index-C4Q795cP.js",
-    "/static/assets/index-CtA1tShz.css"
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "src/tools/yolo-detector/ortWasmPaths.js": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
   ],
   "src/tools/zip-tool/index.vue": [
-    "/static/assets/index-DBhNbqeX.js",
-    "/static/assets/index-CZgYVSES.css"
+    "/static/assets/index-aYKRBqXN.js",
+    "/static/assets/index-B5yU-fpw.css"
   ],
-  "src/tools/zip-tool/index.vue?vue&type=style&index=0&scoped=4817bbde&lang.css": [
-    "/static/assets/index-DBhNbqeX.js",
-    "/static/assets/index-CZgYVSES.css"
+  "src/tools/zip-tool/index.vue?vue&type=style&index=0&scoped=e68fa3fc&lang.css": [
+    "/static/assets/index-aYKRBqXN.js",
+    "/static/assets/index-B5yU-fpw.css"
   ],
   "src/tools/zip-tool/logic.js": [
-    "/static/assets/index-DBhNbqeX.js",
-    "/static/assets/index-CZgYVSES.css"
+    "/static/assets/index-aYKRBqXN.js",
+    "/static/assets/index-B5yU-fpw.css"
   ],
   "src/utils/appLoader.js": [],
   "src/utils/battery.js": [],
   "src/utils/frameGuard.js": [],
   "src/utils/image.js": [
-    "/static/assets/UploadZone-CEFKqnmV.js"
+    "/static/assets/UploadZone-Bxz-1uu2.js"
+  ],
+  "src/utils/modelBundles.js": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
+  ],
+  "src/utils/modelCache.js": [
+    "/static/assets/ModelOfflinePanel-XnEoooE5.js",
+    "/static/assets/ModelOfflinePanel-BpPxJ3LZ.css",
+    "/static/assets/ort-wasm-simd-threaded.jsep-C9FfgNCC.mjs",
+    "/static/assets/ort-wasm-simd-threaded.jsep-D5Jk56-t.wasm"
   ],
   "src/utils/numberInput.js": [
-    "/static/assets/NumberInput-XPSKSzIc.js"
+    "/static/assets/NumberInput-VqmdpwfH.js"
   ],
   "src/utils/text.js": [
     "/static/assets/text-DH7vnuiS.js"
@@ -1358,17 +2349,54 @@
   "src/utils/toolLink.js": [
     "/static/assets/logic-JPxaG9rD.js"
   ],
+  "src/utils/toolSearch.js": [
+    "/static/assets/HighlightText-BuD4v90q.js",
+    "/static/assets/HighlightText-BUXdR6vo.css"
+  ],
   "src/utils/translateError.js": [
-    "/static/assets/translateError-BXJhXssN.js"
+    "/static/assets/translateError-GD6uyc_c.js"
   ],
   "src/views/Home.vue": [
-    "/static/assets/Home-C1Lblowo.js"
+    "/static/assets/Home-DQphlb89.js",
+    "/static/assets/Home-D8Xz6mAP.css"
+  ],
+  "src/views/Home.vue?vue&type=style&index=0&scoped=2b7c0035&lang.css": [
+    "/static/assets/Home-DQphlb89.js",
+    "/static/assets/Home-D8Xz6mAP.css"
   ],
   "src/views/NotFound.vue": [
-    "/static/assets/NotFound-CmFRrS13.js"
+    "/static/assets/NotFound-CBBUEnwg.js"
   ],
   "src/views/Privacy.vue": [
-    "/static/assets/Privacy-VRoRg84B.js"
+    "/static/assets/Privacy--9mL03FL.js"
+  ],
+  "src/views/UiShowcase.vue": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/UiShowcase.vue?vue&type=style&index=0&scoped=77b0f940&lang.css": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/UiShowcaseDemo.vue": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/UiShowcaseDemo.vue?vue&type=style&index=0&scoped=2e0abdd5&lang.css": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/UiShowcasePropTable.vue": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/UiShowcasePropTable.vue?vue&type=style&index=0&scoped=9392fd8b&lang.css": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
+  ],
+  "src/views/uiShowcaseDemoCodes.js": [
+    "/static/assets/UiShowcase-GYJhvnUC.js",
+    "/static/assets/UiShowcase-Kt0Kq8u2.css"
   ],
   "src/webmcp/logic.js": [],
   "src/webmcp/register.js": []

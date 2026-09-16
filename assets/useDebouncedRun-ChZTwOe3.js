@@ -1,0 +1,1 @@
+import{w as a,d as r}from"./app-Bk17TEI1.js";function n(t,i,l=280){let e,o=!0;function u(){globalThis.clearTimeout(e),e=globalThis.setTimeout(()=>{o&&t()},l)}return a(i,u,{deep:!0}),r(()=>{o=!1,globalThis.clearTimeout(e)}),{runNow(){globalThis.clearTimeout(e),o&&t()}}}export{n as u};

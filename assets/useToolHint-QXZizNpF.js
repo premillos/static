@@ -1,0 +1,1 @@
+import{u as s,c as f,U as c,k as a}from"./app-Bk17TEI1.js";function o(t){return typeof t=="function"&&!c(t)?t():a(t)}function p(t,r=""){const{t:u,te:i}=s();return f(()=>{const n=o(r);if(n)return n;const e=`tools.${o(t)}.hint`;return i(e)?u(e):""})}export{p as u};

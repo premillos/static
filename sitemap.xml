@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://premillos.github.io/static/</loc></url>
 <url><loc>https://premillos.github.io/static/privacy/</loc></url>
+<url><loc>https://premillos.github.io/static/ui/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/image-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/image-compressor/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/animation-converter/</loc></url>
@@ -10,6 +11,7 @@
 <url><loc>https://premillos.github.io/static/tools/transparent-trimmer/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/sprite-slicer/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/nine-grid-slicer/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/image-watermark/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/json-formatter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/jwt-parser/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/timestamp-converter/</loc></url>
@@ -20,6 +22,7 @@
 <url><loc>https://premillos.github.io/static/tools/color-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/sql-formatter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/qr-generator/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/barcode-generator/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/yaml-json-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/radix-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/unicode-escape/</loc></url>
@@ -41,6 +44,7 @@
 <url><loc>https://premillos.github.io/static/tools/markdown-preview/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/uuid-generator/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/zip-tool/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/pdf-tool/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/csv-json-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/timezone-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/dockerfile-generator/</loc></url>
