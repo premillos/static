@@ -1,0 +1,1 @@
+import{u as s,c as f,a0 as a,k as c}from"./app-B0M0IDBm.js";function o(t){return typeof t=="function"&&!a(t)?t():c(t)}function p(t,r=""){const{t:u,te:i}=s();return f(()=>{const n=o(r);if(n)return n;const e=`tools.${o(t)}.hint`;return i(e)?u(e):""})}export{p as u};
