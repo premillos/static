@@ -1,0 +1,1 @@
+import{u as s,A as c,c as l}from"./app-DzxaYu3R.js";import{t as f}from"./translateError-CQvLglOJ.js";function E(){const{t:o,locale:t}=s(),r=c(""),e=l(()=>f(r.value,o,t.value));function a(n){r.value=n||""}function u(){r.value=""}return{error:e,rawError:r,setError:a,clearError:u}}export{E as u};
