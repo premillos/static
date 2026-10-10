@@ -1,0 +1,1 @@
+import{m as n,q as f,j as r}from"./app-Ch4C2X-4.js";function m(u,t,o=280){const e=r(!1);let l,a=!0;function i(){e.value=!1,a&&u()}function s(){globalThis.clearTimeout(l),e.value=!0,l=globalThis.setTimeout(i,o)}return n(t,s,{deep:!0}),f(()=>{a=!1,e.value=!1,globalThis.clearTimeout(l)}),{pending:e,runNow(){globalThis.clearTimeout(l),e.value=!1,a&&u()}}}export{m as u};

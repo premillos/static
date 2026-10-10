@@ -7,6 +7,7 @@
 <url><loc>https://premillos.github.io/static/tools/image-compressor/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/animation-converter/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/lottie-player/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/dual-channel-player/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/icon-generator/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/transparent-trimmer/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/sprite-slicer/</loc></url>
@@ -58,4 +59,11 @@
 <url><loc>https://premillos.github.io/static/tools/gitignore-generator/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/csp-generator/</loc></url>
 <url><loc>https://premillos.github.io/static/tools/robots-txt-generator/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/image-batch-resizer/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/image-stitcher/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/text-diff/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/jsonpath-xpath/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/http-request/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/date-calculator/</loc></url>
+<url><loc>https://premillos.github.io/static/tools/unit-converter/</loc></url>
 </urlset>
