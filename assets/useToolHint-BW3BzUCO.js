@@ -1,1 +1,0 @@
-import{u as s,i as f,S as a,g as c}from"./app-Ch4C2X-4.js";function o(t){return typeof t=="function"&&!a(t)?t():c(t)}function p(t,r=""){const{t:u,te:i}=s();return f(()=>{const n=o(r);if(n)return n;const e=`tools.${o(t)}.hint`;return i(e)?u(e):""})}export{p as u};

@@ -1,1 +1,0 @@
-import{u as s,j as c,i as l}from"./app-Ch4C2X-4.js";import{t as f}from"./translateError-C_dDCV-P.js";function E(){const{t:o,locale:t}=s(),r=c(""),e=l(()=>f(r.value,o,t.value));function a(n){r.value=n||""}function u(){r.value=""}return{error:e,rawError:r,setError:a,clearError:u}}export{E as u};
